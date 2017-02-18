@@ -1,0 +1,7 @@
+William Todd
+9-17-16
+CS 3304-05
+
+This program was designed to implement basic functions of a set. That being find the union and find the intersection between two sets. To test you may change the sets mySet1 and mySet2 in the main. The functions should work even if the sets are unordered, but remember sets cannot have two of the same number in them. 
+
+I had trouble getting both of them to work at the same time. When passing my arrays to the functions, they would work perfectly fine for the first function called, but the second function always messed up and refused to print anything. Detailed further in problem report.

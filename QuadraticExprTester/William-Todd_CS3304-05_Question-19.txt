@@ -1,0 +1,12 @@
+William Todd
+CS3304-05
+9-19-2016
+Question 19
+
+During swap1() it doesn't do anything as they are not manipulating pointers and there is no return value to actually do anything.
+
+swap2() passes two ints and converts them to the address at which the values are located. Once the address of n1 and n2 are found it sets the n1 address to n2's address and vice versa, allowing them to swap without returning a value.
+
+swap3() passes two ints and converts them to pointer values. It is basically the same as swap2(), but instead of swapping addresses it swaps the values that the pointers contain.
+
+Before invoking swap4(), the main converts the two int values into pointers that contain the addresses where num1 and num2 are stored. When swap4() is called it then takes the address at which p1 and p2 are contained (which contains the addresses of num1 and num2) and swaps them effectively. Thus, when p1 and p2 are printed it prints the swapped address locations of num1 and num2.

@@ -1,0 +1,5 @@
+William Todd
+9-17-16
+CS 3304-05
+
+This program is used to add and subtract 2 static polynomials from each other. While the polynomials' size can be changed prior to compiling, they cannot be changed during runtime. After adding/subtracting the polynomials the program should correctly print them to the user (correctly meaning it prints it in an ax^2 + bx + c fashion where the constant is not assigned a variable).

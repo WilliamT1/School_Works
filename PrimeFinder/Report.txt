@@ -1,0 +1,14 @@
+William Todd
+CS3304-05
+Problem 26
+10/10/16
+
+Original run time with 30000 numbers: .33s
+
+After changing array from int to char: It took way less time to find all the primes. It found 15 primes and only took .001s compared to the .33s it took for the ints.
+
+After changing array from char to bool: It didn't find any primes, and as a result it took 0s to run the program.
+
+After changing from static array to dynamic array: It took .010s longer to find all the primes using dynamic arrays as it had to fill the array first.
+
+After changing from dynamic array to vector: It took the same amount of time to find all primes using dynamic arrays as it did for vectors.

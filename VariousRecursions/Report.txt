@@ -1,0 +1,6 @@
+William Todd
+CS3304-05
+11-18-16
+Question 35
+
+This program ran so fast that the most I could get it to recursively sum without crashing was 30000 integers, which it summed up in .001s. This is an improvement compared to the summation I implemented in problem 1 which took .032s on average.

@@ -1,0 +1,9 @@
+William Todd
+9-17-16
+CS 3304-05
+
+This program sucessfully models a simple bank account. One which can be deposited into, withdrawn from and display an overdraft message if the amount withdrawn is higher than the balance of the account, have the owner changed, and can display the current owner and current balance to the user.
+
+The user can interact with the account through the text-based ui. In the ui the user can choose what action they would like to take, as well as when to quit using the bank. Once they have finished banking the program will thank the user for their time.
+
+All preconditions and postconditions are documented in the code. If the program is exited the bank account is wiped and started anew on next run.

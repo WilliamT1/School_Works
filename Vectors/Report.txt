@@ -1,0 +1,6 @@
+William Todd
+CS3304-05
+9-28-16
+Question 24b
+
+This one was just like 24A with the exception that you had to use a 2d vector rather than 1d. I had to initialize a 2d vector and then resize it to the proper row and column size. Then I fed it into an overloaded version of the sum() function that was originally used to sum up the normal 2d array and it worked like a charm because vectors use similar sintax to arrays.

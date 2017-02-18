@@ -1,0 +1,9 @@
+William Todd
+9-13-16
+CS 3304-05
+
+This program will model any quadradic expression of ax^2 + bx + c. It will present each coefficient to the user, take input to evaluate the expression, determine if the zeroes are imaginary or not, and if the zeroes are non-imaginary it will display the roots as well. 
+
+To test a quadratic expression with real zeroes, the first quadratic expression provided is x^2 -2x -3, which should produce two real zeroes (x1 = 3, x2 = -1) and can be evaluated at any x.
+
+To test a quadratic expression with imaginary zeroes, the second quadratic expression provided is x^2 + 16, which should tell the user that has imaginary roots which are not evaluated. This expression can then also be evaluated at any x.

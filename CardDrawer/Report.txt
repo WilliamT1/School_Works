@@ -1,0 +1,6 @@
+William Todd
+CS3304-05
+9-28-16
+Question 24A
+
+These problems were pretty simple. The only thing you have to do is initialize a string vector, fill it using the push_back() function, then use the same functions as done for the array part. Since array sintax and vector sintax are so similar they will both work.

@@ -1,0 +1,10 @@
+William Todd
+CS3304-05
+9-28-16
+Question 22
+
+This program creates a simple template that allows any object that can be compared using the > comparator to be fed into one function rather than making a bunch of seperate overloaded functions. It then returns the larger value of the two that were fed in.
+
+Without using a template, the way to do this would to be to make a bunch of seperate functions that all did the same thing but returned different data types. 
+
+For example, if we wanted to compare chars, ints, and doubles we'd have to make a char maxValue, int maxValue, and double maxValue function that would return a char, int, or double respectively. This would be very tedious compared to making a template and doing it all in one, as seen in this program.
